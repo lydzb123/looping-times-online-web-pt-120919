@@ -1,7 +1,3 @@
 def using_times
-	#your code here
+	times.10 "Wingardium Leviosa"
 end
-
-
-
-
