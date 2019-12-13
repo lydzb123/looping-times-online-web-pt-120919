@@ -1,3 +1,3 @@
 def using_times
-	times.10 "Wingardium Leviosa"
+	times.7 "Wingardium Leviosa"
 end
